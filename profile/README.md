@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://grub.gg"><img src="banner.png" alt="grub.gg" width="840"></a>
+<a href="https://grub.gg"><picture><source media="(prefers-color-scheme: dark)" srcset="banner-dark.png"><img src="banner.png" alt="grub.gg" width="840"></picture></a>
 
 ### A Rust server for practicing monument fights
 
